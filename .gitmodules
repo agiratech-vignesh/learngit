@@ -1,0 +1,6 @@
+[submodule "dompdf"]
+	path = dompdf
+	url = https://github.com/dompdf/dompdf.git
+[submodule "guzzle"]
+	path = guzzle
+	url = https://github.com/guzzle/guzzle.git
